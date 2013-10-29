@@ -7,9 +7,6 @@ void printToScreen();
 
 int main(int argc, char **argv) {
 	printToScreen();
-	
-	while(true){
-	};
 }
 
 void printToScreen(){
